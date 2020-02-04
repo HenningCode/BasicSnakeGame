@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/henningwilmer/Programmieren/VSC/Snake/build",
+  "command": "/usr/bin/clang  -I/Users/henningwilmer/Programmieren/VSC/Snake/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/Snake.dir/src/main.c.o   -c /Users/henningwilmer/Programmieren/VSC/Snake/src/main.c",
+  "file": "/Users/henningwilmer/Programmieren/VSC/Snake/src/main.c"
+}
+]
